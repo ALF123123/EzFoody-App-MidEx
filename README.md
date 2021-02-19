@@ -1,1 +1,1 @@
-# BinusEzFoody
+# EzFoody APP Mid
